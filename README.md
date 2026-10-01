@@ -1,7 +1,8 @@
 Lightweight menu bar D-day counter for macOS
 
 Pros(and cons)
-- Made for macOS Golden Gate 27 (I do not know if it works on older versions)
+- Made for macOS 27 Golden Gate (I do not know if it works on older versions)
+  - I did make minimum deployments version to macOS 14 Sonoma just in case, but not verified.
 - Apple Silicon native (no Intel support)
 - Very lightweight (no features)
 - Liquid Glass (ew)
